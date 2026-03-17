@@ -1,0 +1,9 @@
+{
+  "subset_size": 2000,
+  "local_model_name": "tfidf_bi_logreg",
+  "local_model_accuracy": 0.787,
+  "local_model_time_sec": 0.024177074432373047,
+  "hf_model_accuracy": 0.7015,
+  "hf_model_time_sec": 2.561655044555664,
+  "member": "Daniel"
+}

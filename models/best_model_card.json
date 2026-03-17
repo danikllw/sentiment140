@@ -1,0 +1,7 @@
+{
+  "model_name": "tfidf_bi_logreg",
+  "metric": "accuracy",
+  "best_val_accuracy": 0.8026166666666666,
+  "preprocessing": "basic_clean",
+  "member": "Daniel"
+}

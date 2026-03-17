@@ -1,0 +1,5 @@
+experiment,val_accuracy,train_time_sec
+tfidf_bi_logreg,0.8026166666666666,5.62562894821167
+tfidf_bi_nb,0.7851,4.876925945281982
+baseline_bow_nb,0.7712,1.3751630783081055
+tfidf_uni_nb,0.76495,1.4850850105285645
